@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--<configuration strict="true">
+
+<appenders>
+    <appender type="Console" name="STDOUT">
+        <layout type="PatternLayout" pattern="%d %-5p %c - %m%n"/>
+    </appender>
+    <appender type="File" name="File" fileName="D:\logs\web-log-test.log">
+        <layout type="PatternLayout">
+            <pattern>%d %-5p %c - %m%n</pattern>
+        </layout>
+    </appender>
+</appenders>
+
+<loggers>
+    <logger name="org.apache.jsp" level="debug">
+        <appender-ref ref="File"/>
+    </logger>
+    <root level="trace">
+        <appender-ref ref="STDOUT"/>
+    </root>
+</loggers>
+
+
+</configuration>-->
+
+<Configuration status="WARN">
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+  </Appenders>
+  <Loggers>
+    <Root level="error">
+      <AppenderRef ref="Console"/>
+    </Root>
+  </Loggers> 
+</Configuration>

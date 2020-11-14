@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/cart/CartObj.java</file>
+            <file>file:/D:/lad231/HotelBooking/web/showCart.jsp</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/CreateDiscountServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/tblorderdetail/OrderDetailDAO.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/CreateNewAccountServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/UpdateCartServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/tbluser/UserDAO.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/ShowCartServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/web/showHotel.jsp</file>
+            <file>file:/D:/lad231/HotelBooking/web/ceateDiscountCode.jsp</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/CheckOutServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/tblroom/RoomDAO.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/AddToCartServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/filter/FilterDispatchcher.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/servlet/GetDiscountServlet.java</file>
+            <file>file:/D:/lad231/HotelBooking/src/java/hieunt/tbldiscount/DiscountDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
